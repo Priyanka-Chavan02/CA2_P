@@ -5,7 +5,7 @@ import shutil
 import json
 import csv
 
-print("----------------- Welcome to CHROME DATA EXTRACTER -----------\n\n\n\n")
+print("-----------------Welcome to CHROME DATA EXTRACTER-----------\n\n\n\n")
 print("---In this software we help to extract the all the browser data---")
 print("for chrome history enter 'History':")
 print("for chrome cookies Enter 'Cookies':")
